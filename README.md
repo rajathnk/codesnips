@@ -1,2 +1,2 @@
 # codesnips
-Code snips for specific tasks for reference
+Python Code snips for specific tasks mostly related to machine learning & deep learning for reference
